@@ -1,5 +1,5 @@
-map = input().split(",") # mapa w formie linii po przecinku
-print("")
+
+map = input().split(",") # mapa w formie linii po przecinku, gdzie P są punktami a X wypełniają puste przestrzenie, np. XXXXX,XPXXX,XXPXP,XXXPX,PXPXX (mapa 5x5)print("")
 for l in map: print(l) # prezentacja mapy
 print("")
 length = 0
