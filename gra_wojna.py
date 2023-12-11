@@ -1,9 +1,9 @@
 # Gra w wojnę - każdy dostaje taką samą ilość
 # kart po czym porównuje się wyciągając za każdym razem zupełnie
-# losową kartę z tych, które ma w decku (brak taktyki po obu
-# stronach). W razie braku kart dobiera on karty ze swoich
-# wygranych, a przegrywa wówczas, gdy nie będzie miał kart ani
-# w decku ani w wygranych kartach. Wyjątkiem jest sytuacja, gdy
+# losową kartę z tych, które ma w talii (brak taktyki po obu
+# stronach). W razie braku kart dobiera on karty ze zdobytych
+# kart, a przegrywa wówczas, gdy nie będzie miał kart ani
+# w talii ani w wygranych kartach. Wyjątkiem jest sytuacja, gdy
 # gracz nie ma żadnych kart ale jest w stanie wojny - wówczas
 # może dobrać losową kartę/karty od przeciwnika
 
