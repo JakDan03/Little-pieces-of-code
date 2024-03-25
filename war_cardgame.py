@@ -1,4 +1,12 @@
-# War card game - everyone gets the same number of cards and then compares each time by choosing a completely random card from those in the deck (no tactics on both sides).  The player with the higher card takes both of the cards played and moves them to their stack. If the two cards played are of equal value, then there is a "war". Both players place the next card from their deck face down and then another card face-up. The owner of the higher face-up card wins the war and adds all the cards on the table to their stack. If no cards left in deck, players draw cards from his stack, and loses when he has no cards in either the deck or the stack. The exception is when the player has no cards but the war is on - then he can draw a random card / cards from the opponent.
+# War card game - everyone gets the same number of cards and then compares each time 
+# by choosing a completely random card from those in the deck (no tactics on both sides).  
+# The player with the higher card takes both of the cards played and moves them to their stack. 
+# If the two cards played are of equal value, then there is a "war". 
+# Both players place the next card from their deck face down and then another card face-up. 
+# The owner of the higher face-up card wins the war and adds all the cards on the table to their stack. 
+# If no cards left in deck, players draw cards from his stack, and loses when he has no cards in either the deck or the stack. 
+# The exception is when the player has no cards but the war is on - then he can draw cards from the opponent.
+
 import random
 
 # cards in game
